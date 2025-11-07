@@ -56,10 +56,10 @@ python3 --version
 
 ## 8️⃣ Real-world Applications
 
-**🌐 Web Development**  
-**📊 Data Science & Machine Learning**  
-**⚙️ Automation & Web Scraping**  
-**🔌 Embedded Systems**  
+    **🌐 Web Development**  
+    **📊 Data Science & Machine Learning**  
+    **⚙️ Automation & Web Scraping**  
+    **🔌 Embedded Systems**  
 
 ---
 
