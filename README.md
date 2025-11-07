@@ -177,3 +177,30 @@ print("Full Name:", full_name)
 | `//`     | `10 // 3` | `3`      |
 | `**`     | `2 ** 3`  | `8`      |
 | `%`      | `10 % 3`  | `1`      |
+
+
+### 6️⃣ Conditional Statements
+
+
+```bash
+num = int(input("Enter a number: "))
+
+if num > 0:
+    print("Positive number")
+elif num < 0:
+    print("Negative number")
+else:
+    print("Zero")
+
+```
+
+
+### 7️⃣ f-Strings (Formatted Strings)
+
+```bash
+
+name = "Lincoln"
+age = 20
+print(f"My name is {name} and I am {age} years old")
+
+```
