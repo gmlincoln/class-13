@@ -59,7 +59,7 @@ python3 --version
 - **🌐 Web Development**
 - **📊 Data Science & Machine Learning**
 - **⚙️ Automation & Web Scraping**
- **🔌 Embedded Systems**
+-- **🔌 Embedded Systems**
 
 ---
 
