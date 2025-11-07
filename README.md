@@ -28,7 +28,7 @@ python3 --version
 ```
 ---
 
-## 5️⃣ PyCharm Installation
+## 5️⃣ PyCharm Installation (Optional)
 
 💡 Optional but useful: Install PyCharm from [https://jetbrains.com/pycharm](https://jetbrains.com/pycharm)
 
