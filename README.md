@@ -66,7 +66,7 @@ python3 --version
 
 ## 9️⃣ Writing & Running Your First Python Program
 
-📄 Create a file called main.py
+📄 Create a file called first.py
 
 Example:
 ```bash
@@ -79,10 +79,10 @@ Using → click the Run button
 Using Terminal:
 ```bash
 # 🪟 Windows
-python main.py
+python first.py
 
 # 🍎 Mac
-python3 main.py
+python3 first.py
 ```
 ---
 
