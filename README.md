@@ -9,7 +9,7 @@
 Install the following extensions:
 - 🧩 **Python**
 - 🐞 **Python Debugger**
--⚡ **Code Runner**
+- ⚡ **Code Runner**
 
 ---
 
@@ -38,28 +38,28 @@ python3 --version
 ## 6️⃣ What is Python?
 
 🐍 Python is:
--**A high-level programming language**
--**Interpreted (runs line by line)**
--**Known for simplicity and readability**
--**👨‍💻 Created by Guido van Rossum in 1991**
+- **A high-level programming language**
+- **Interpreted (runs line by line)**
+- **Known for simplicity and readability**
+- **👨‍💻 Created by Guido van Rossum in 1991**
 
 ---
 
 
 ## 7️⃣ Why Learn Python?
 
--**✅ Simplicity – Easy to learn and understand**
--**✅ Versatility – Used in many fields**
--**✅ Large Community – Tons of tutorials, help & libraries**
+- **✅ Simplicity – Easy to learn and understand**
+- **✅ Versatility – Used in many fields**
+- **✅ Large Community – Tons of tutorials, help & libraries**
 
 ---
 
 ## 8️⃣ Real-world Applications
 
--**🌐 Web Development**
--**📊 Data Science & Machine Learning**
--**⚙️ Automation & Web Scraping**
--**🔌 Embedded Systems**
+- **🌐 Web Development**
+- **📊 Data Science & Machine Learning**
+- **⚙️ Automation & Web Scraping**
+ **🔌 Embedded Systems**
 
 ---
 
