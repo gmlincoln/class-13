@@ -9,6 +9,7 @@
 Install the following extensions:
 - 🧩 **Python**
 - 🐞 **Python Debugger**
+-⚡ **Code Runner**
 
 ---
 
