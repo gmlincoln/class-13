@@ -139,3 +139,17 @@ print(type(x))  # <class 'int'>
 print(type(y))  # <class 'str'>
 
 ```
+
+### 3️⃣ Converting Input Types
+
+```bash
+
+# Single input
+age = int(input("Enter your age: "))
+
+# Multiple inputs
+a, b = map(int, input("Enter two numbers separated by space: ").split())
+print("Sum:", a + b)
+
+
+```
