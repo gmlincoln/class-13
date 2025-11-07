@@ -6,7 +6,7 @@
 ---
 
 ### 2️⃣ VS Code Extensions
-Install the following extensions:
+Install the following extensions:  
 🧩 **Python**  
 🐞 **Python Debugger**  
 ⚡ **Code Runner**  
