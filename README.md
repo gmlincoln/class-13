@@ -12,7 +12,7 @@ Install the following extensions:
 
 ---
 
-## 3️⃣ Python Installation
+
 ✅ Download and install **Python** from [https://python.org](https://python.org)
 
 ---
@@ -25,76 +25,90 @@ python --version
 # 🍎 Mac
 python3 --version
 
-5️⃣ PyCharm Installation
+```
+---
 
-💡 Optional but useful: Install PyCharm from https://jetbrains.com/pycharm
+## 5️⃣ PyCharm Installation
 
-6️⃣ What is Python?
+💡 Optional but useful: Install PyCharm from [https://jetbrains.com/pycharm](https://jetbrains.com/pycharm)
+
+---
+
+## 6️⃣ What is Python?
 
 🐍 Python is:
+-**A high-level programming language**
+-**Interpreted (runs line by line)**
+-**Known for simplicity and readability**
+-**👨‍💻 Created by Guido van Rossum in 1991**
 
-A high-level programming language
+---
 
-Interpreted (runs line by line)
 
-Known for simplicity and readability
-👨‍💻 Created by Guido van Rossum in 1991
+## 7️⃣ Why Learn Python?
 
-7️⃣ Why Learn Python?
+-**✅ Simplicity – Easy to learn and understand**
+-**✅ Versatility – Used in many fields**
+-**✅ Large Community – Tons of tutorials, help & libraries**
 
-✅ Simplicity – Easy to learn and understand
-✅ Versatility – Used in many fields
-✅ Large Community – Tons of tutorials, help & libraries
+---
 
-8️⃣ Real-world Applications
+## 8️⃣ Real-world Applications
 
 🌐 Web Development
-📊 Data Science & Machine Learning
-⚙️ Automation & Web Scraping
-🔌 Embedded Systems
+-**📊 Data Science & Machine Learning**
+-**⚙️ Automation & Web Scraping**
+-**🔌 Embedded Systems**
 
-9️⃣ Writing & Running Your First Python Program
+---
+
+
+## 9️⃣ Writing & Running Your First Python Program
 
 📄 Create a file called main.py
 
 Example:
-
+```bash
 print("Hello, I am learning Python!")
-
+```
 ▶️ Run the Program
 
-Using PyCharm → click the Run button
+Using → click the Run button
 
 Using Terminal:
-
+```bash
 # 🪟 Windows
 python main.py
 
 # 🍎 Mac
 python3 main.py
+```
+---
 
-🔟 How Python Code Executes
+## 🔟 How Python Code Executes
 
-🧠 Executes line by line
-🐞 Makes debugging simple
-💡 Easy to understand code flow
+-**🧠 Executes line by line**
+-**🐞 Makes debugging simple**
+-**💡 Easy to understand code flow**
+---
 
-11️⃣ Understanding Code Execution & Debugging
+1️⃣1️⃣ Understanding Code Execution & Debugging
 
-🔍 Debugging helps you find and fix errors
-🧩 Helps break down complex logic
-🚀 Improves understanding of performance and others’ code
+-**🔍 Debugging helps you find and fix errors**
+-**🧩 Helps break down complex logic**
+-**🚀 Improves understanding of performance and others’ code**
 
-12️⃣ Python Comments
+## 1️⃣2️⃣ Python Comments
 
-💬 Single-line Comment
+-**💬 Single-line Comment**
+```bash
+    # This is a single-line comment
+```
 
-# This is a single-line comment
-
-
-📝 Multi-line Comment
-
+-**📝 Multi-line Comment**
+```bash
+    """
+    This is a
+    multi-line comment
 """
-This is a
-multi-line comment
-"""
+```
