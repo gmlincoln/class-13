@@ -38,10 +38,10 @@ python3 --version
 ## 6️⃣ What is Python?
 
 🐍 Python is:
-**A high-level programming language**  
-**Interpreted (runs line by line)**  
-**Known for simplicity and readability**  
-**👨‍💻 Created by Guido van Rossum in 1991**  
+- **A high-level programming language**  
+- **Interpreted (runs line by line)**  
+- **Known for simplicity and readability**  
+- **👨‍💻 Created by Guido van Rossum in 1991**  
 
 ---
 
