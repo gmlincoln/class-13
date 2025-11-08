@@ -226,7 +226,18 @@ print("Full Name:", full_name)
 | `%`      | `10 % 3`  | `1`      |
 
 
-### 6️⃣ Conditional Statements
+
+### 6️⃣ f-Strings (Formatted Strings)
+
+```python
+
+name = "Lincoln"
+age = 20
+print(f"My name is {name} and I am {age} years old")
+
+```
+
+### 7️⃣ Conditional Statements
 
 
 ```python
@@ -242,15 +253,7 @@ else:
 ```
 
 
-### 7️⃣ f-Strings (Formatted Strings)
 
-```python
-
-name = "Lincoln"
-age = 20
-print(f"My name is {name} and I am {age} years old")
-
-```
 
 ### 🎯 Practice Tasks
 
