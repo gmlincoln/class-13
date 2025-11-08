@@ -19,7 +19,7 @@ Install the following extensions:
 ---
 
 ### 4️⃣ Check Python Version
-```bash
+```python
 # 🪟 Windows
 python --version
 
@@ -69,7 +69,7 @@ python3 --version
 📄 Create a file called first.py
 
 Example:
-```bash
+```python
 print("Hello, I am learning Python!")
 ```
 ▶️ Run the Program
@@ -77,7 +77,7 @@ print("Hello, I am learning Python!")
 Using → click the Run button
 
 Using Terminal:
-```bash
+```python
 # 🪟 Windows
 python first.py
 
@@ -105,12 +105,12 @@ python3 first.py
 ### 1️⃣2️⃣Python Comments
 
 **💬 Single-line Comment**
-```bash
+```python
     # This is a single-line comment
 ```
 
 **📝 Multi-line Comment**
-```bash
+```python
     """
     This is a
     multi-line comment
@@ -122,7 +122,7 @@ python3 first.py
 
 ### 1️⃣ Getting User Input
 
-```bash
+```python
 name = input("Enter your name: ")
 age = input("Enter your age: ")
 print("Hello,", name)
@@ -132,7 +132,7 @@ print("You are", age, "years old")
 
 ### 2️⃣ Checking Data Types
 
-```bash
+```python
 x = 10
 y = "Python"
 print(type(x))  # <class 'int'>
@@ -142,7 +142,7 @@ print(type(y))  # <class 'str'>
 
 ### 3️⃣ Converting Input Types
 
-```bash
+```python
 
 # Single input
 age = int(input("Enter your age: "))
@@ -156,7 +156,7 @@ print("Sum:", a + b)
 
 ### 4️⃣ Concatenation
 
-```bash
+```python
 
 first_name = "John"
 last_name = "Doe"
@@ -164,6 +164,53 @@ full_name = first_name + " " + last_name
 print("Full Name:", full_name)
 
 ```
+### Python Strings
+#### Slicing
+```python
+    greetings = "Hello, World!"
+    print(greetings[2:5]) #Output: llo
+    #Slice From the Start
+    print(greetings[:5]) #Output: Hello
+    #Slice To the End
+    print(greetings[2:]) #Output: llo, World!
+    print(greetings[-5:-2]) #Output: llo, orl
+    
+```
+
+##### Modify Strings
+
+```python
+
+    name = "lincoln"
+    #Upper Case
+    print(name.upper()) #Output: LINCOLN
+
+    #Lower Case
+    print(name.lower()) #Output: lincoln
+
+    #Capitalize First Letter
+    print(name.capitalize()) #Output: Lincoln
+
+    #Remove Whitespace
+    demo = " New Age"
+    print(demo.strip()) #Output:New Age
+
+    #Replace String
+    print(name.replace("L", "GM L")) #Output: GM Lincoln
+
+    #Split String
+    print(demo.strip().split(" ")) #Output: [New, Age]
+
+    #Title
+    text = "Welcome to my world"
+    x = text.title()
+    print(x)
+
+    #Escape Characters
+    sentence = "We are the so-called \" Vikings \" from the north."
+    print(sentence)  #Output: We are the so-called "Vikings" from the north.
+```
+
 
 
 ### 5️⃣ Operators
@@ -182,7 +229,7 @@ print("Full Name:", full_name)
 ### 6️⃣ Conditional Statements
 
 
-```bash
+```python
 num = int(input("Enter a number: "))
 
 if num > 0:
@@ -197,7 +244,7 @@ else:
 
 ### 7️⃣ f-Strings (Formatted Strings)
 
-```bash
+```python
 
 name = "Lincoln"
 age = 20
